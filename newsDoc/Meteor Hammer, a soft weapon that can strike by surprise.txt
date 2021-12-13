@@ -1,0 +1,2 @@
+Meteor Hammer, a soft weapon that can strike by surprise
+The meteor hammer is a metalhead tied to a rope that can strike by surprise. It is easy to hide and carry. Inertia can be generated from swinging and wrapping the rope. It is fast and stealthy, greatly extending the attacking range. The next attack is ready at the withdrawal of the previous one.

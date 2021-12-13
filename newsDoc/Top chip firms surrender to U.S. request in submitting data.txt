@@ -1,0 +1,18 @@
+Top chip firms surrender to U.S. request in submitting data
+South Korean firms Samsung Electronics and SK Hynix, the world's two biggest makers of memory chips, have disclosed their semiconductor data to the U.S. government before the November 8 deadline but have omitted some sensitive data, the companies said.
+
+The two chip giants said they minimized the disclosure of sensitive information, such as customer data and inventory.
+
+The U.S. in September requested that chipmakers, automakers and others, submit chip data, saying the information would boost supply-chain transparency and set a deadline to respond.
+
+U.S. Secretary of Commerce Gina Raimondo said at the time that "aggressive" action was needed on the chip shortage. She warned that if companies did not answer the request, "then we have other tools in our toolbox that require them to give us data."
+
+The request comprises 26 topics seeking data on inventories, orders and sales ranging from "everyday" information to questions on highly strategic areas, such as capacity increase plans, the top three customers for each product and how much those three customers account for in terms of the product's sales, a South Korean industry ministry source told Reuters.
+
+The move has triggered industry concerns on trade secrets.
+
+"The scope of the U.S. data request is such that if all the information it wants is leaked, it would undermine competition and make it really easy for a client to choose one chipmaker over another," a source close to the matter told Reuters.
+
+South Korea's trade ministry had expressed reservations on October 6, saying, "The scope of the requested data is vast and a number of operational secrets are included, which is a big concern in South Korea."
+
+Raimondo said on Monday that she was "optimistic" and that if the data wasn't "good enough," further action may be needed.

@@ -1,0 +1,10 @@
+Robinhood says email addresses of 5 million customers exposed
+Robinhood Markets said on Monday a third party had obtained access to the email addresses of about 5 million of its customers.
+
+The fee-free broker said the full names of a different group of about 2 million people were also exposed in the breach, while 310 people had more personal information, including names, birth, dates and zip codes, compromised.
+
+Robinhood said it believed no social security numbers, bank account numbers or debit card numbers were exposed, and there has been no financial loss to any customer as a result of the incident, which took place on November 3.
+
+"The unauthorized party socially engineered a customer support employee by phone and obtained access to certain customer support systems," the company said in a blog post, adding that the third party had demanded an extortion payment.
+
+The company's shares fell about 3 percent in extended trading.

@@ -1,0 +1,14 @@
+Chinese researchers find new multiline spectroscopic systems
+Chinese researchers have obtained 3,133 spectroscopic binary and 132 spectroscopic triple candidates, according to a recent research published in the Astrophysical Journal Supplement Series.
+
+Using the Medium-resolution Spectroscopic Survey (MRS) of the Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST), astronomers from the National Astronomical Observatories of the Chinese Academy of Sciences (NAOC) accurately measured the radial velocities of the binaries and triples, of which 95 percent were newly-found multi-star systems.
+
+"This is by far the largest multi-line spectroscopic systems with a time-domain spectrum, which provides scientifically inheritable resources for future research," NAOC researcher Shi Jianrong told Science and Technology Daily on November 11.
+
+About half of the stars in the Milky Way are in binary systems, according to the report. Through photometry and spectral observations, researchers can receive accurate orbital parameters, stellar mass and radius information of binary stars, which are crucial for studying the formation and evolution of stars and even the Milky Way.
+
+The discovered spectroscopic binary and triple candidates account for 1.2 percent of the LAMOST-MRS stars, said the research article.
+
+LAMOST-MRS is a five-year project initiated in 2018. According to the survey plan, researchers are expected to detect around 1,500 new multi-line spectroscopic systems yearly that will yield effective findings for stellar physics.
+
+(With input from Xinhua)

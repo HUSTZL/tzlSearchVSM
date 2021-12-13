@@ -1,0 +1,38 @@
+China implements first law on personal data protection
+China has been ramping up efforts to protect personal data security. Its Personal Information Protection Law (PIPL) that was passed in August, went into force on Monday.
+
+With the rapid development of the internet, mobile applications and mini programs, social media platforms have become an essential part of people's daily life, meeting their needs for diverse services.
+
+However, questions come along with convenience. After searching for a product on a platform, some consumers have found that other platforms may start to push the same product. Meanwhile, others complain of price discrimination where one user pays more for the same item on the same platform. They also complain that the privacy policy terms on applications are not always reader-friendly.
+
+In response to such problems, a stringent set of requirements and protections for data privacy, with informed consent at its core, have been included in the PIPL, which is also known as the country's first comprehensive and systematic law on personal data protection. Under the law, companies must obtain informed consent from users for data collection, processing, transfer, storage, and so forth.
+
+The law makes provisions prohibiting the excessive collection of personal information and big data-enabled price discrimination against existing customers.
+
+According to the law, when pushing information and business marketing to individuals through automated decision-making, personal information processors should refrain from targeting users' personal characteristics and offer ways for them to reject the offer.
+
+The law also mandates the suspension or termination of services for apps that illegally process personal data.
+
+It also requires that prominent signs be put up in public places where image acquisition and personal identification equipment are installed, stipulating that the collected images and identification information can only be used to safeguard public security.
+
+Sensitive personal information, such as one's biological data, religious beliefs, health, financial information and whereabouts, and the personal information of the minors under 14, is protected under the law. It can only be processed for a specific purpose, sufficient necessity and strict protection measures.
+
+"This is a comprehensive protection rule on the collection, storage, use, processing, transmission, provision, disclosure and deletion of personal information, following the promulgation of China's Cybersecurity Law, Civil Code and Data Security Law," Xu Zhongyuan, dean of the Law School of Central South University, told People's Daily in a recent interview.
+
+"Such a basic law to protect personal information has improved China's top-level design in the field of cybersecurity and data protection," Xu said.
+
+Chinese internet companies have already introduced measures to reflect their information protection obligations, some even before the law's implementation.
+
+China's e-commerce giant Alibaba Group in July issued a notice on its open platform to strengthen the protection of sensitive information in consumer orders, launching a consumer sensitive information protection plan to encrypt sensitive information.
+
+The e-commerce platform JD.com launched a user order privacy security scheme in July, encrypting the phone numbers in the orders.
+
+Tencent in October announced plans to set up an external oversight board for personal data protection.
+
+Most recently, Apple Inc. sent a letter to its users in China, saying it has made active preparations to implement the PIPL, stressing that it uses users' personal data only under a legitimate legal basis.
+
+China continues to move toward a safer digital world.
+
+On October 29, the Cyberspace Administration of China issued draft measures on outbound data security assessment to better regulate companies that transfer important data generated and collected in China overseas and ensure a free and orderly flow of data in accordance with the law.
+
+(With input from Xinhua News Agency)

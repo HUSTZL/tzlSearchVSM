@@ -1,0 +1,52 @@
+China makes new progress in its COVID-19 drug development
+In a boost to its fight against COVID-19, China is accelerating the development of drugs while promoting vaccination.
+
+China is developing drugs according to three main strategies for impeding the SARS-CoV-2, virus responsible for COVID-19. While the first strategy is to inhibit the virus's replication machinery, the second strategy aims to block the virus from entering a target cell. The third approach is to regulate the immune system's overactive response.
+
+Block Viral Replications
+
+All coronaviruses use the same mechanism to reproduce, which highly depends on polymerases that are crucial for viral replication. Therefore, using inhibitors to target these enzymes can make the replication process sloppy and produce fewer new viruses.
+
+Azvudine, a clinical candidate originally developed for HIV treatment by Henan Normal University, has been found antiviral active against SARS-CoV-2 in animals and cellular level. Multiple clinical trials have been conducted in China, Brazil and Russia in phase III clinical study.
+
+Prevent Entry into Cells
+
+To stop SARS-CoV-2 from penetrating cells in the first place, scientists are trying to develop antibodies that lock onto the viral protein that facilitates cell entry, a part of the virus known as the spike.
+
+A combination therapy of monoclonal antibodies BRII-196 and BRII-198 jointly developed by Tsinghua University, the Third People's Hospital of Shenzhen and Brii Biosciences has shown promising results for non-hospitalized COVID-19 patients at high risk of clinical progression to severe disease.
+
+"Our body produces a lot of antibodies, but not all of them have antiviral properties. The goal of our research is to select the strongest and best antiviral antibodies to develop drugs for treatment," Professor Zhang Linqi of Tsinghua's School of Medicine told Science and Technology Daily in a recent interview.
+
+Zhang said the team screened the two highly active and complementary antibodies from hundreds isolated from the blood of convalescent COVID-19 patients.
+
+"The BRII-196/BRII-198 medicines have been used in the clinical treatment of over 700 patients in China, and the clinical trials data at home and overseas shows the medicines could reduce severe symptoms and mortality by 78 percent," he said.
+
+Brii Biosciences has submitted an emergency use authorization (EUA) filing of the therapy to the U.S. Food and Drug Administration (FDA) on a rolling basis, and also submitted an interim report of phase III clinical trials overseas to the Center for Drug Evaluation of China's National Medical Products Administration.
+
+Another neutralizing antibody JS016, also known as etesevimab, has completed the recruitment for phase Ib/II controlled study in non-severe COVID-19 patients. Jointly developed by the Institute of Microbiology of the Chinese Academy of Sciences and Junshi Bioscience, JS016 is the first COVID-19 neutralizing antibody to enter clinical trials in China and the first neutralizing antibody entering clinical trial in the world, according to the company.
+
+The combination or "cocktail" antibody regimes of JS016 and LY-CoV555, also known as bamlanivimab, has shown effectiveness in reducing the risk of COVID-19 hospitalizations and death by 70 percent, according to its phase II and phase III trial data.
+
+The FDA and the U.S. Assistant Secretary for Preparedness and Response (ASPR) announced on September 2 for the authorization of the use of the combo treatment to all U.S. states.
+
+Neutralizing antibody drug DXP-604 has also been approved at the Beijing Ditan Hospital for compassionate use, an option to treat patients with life-threatening conditions with medical products outside of clinical trials when no other treatments are available.
+
+The drug, developed by a research team from Peking University led by Professor Xie Xiaoliang and Beijing DanXu Pharmaceuticals, can protect against COVID-19 variants with a lower production cost ¨C about one-third of other candidates, Xie told Science and Technology Daily.
+
+According to Xie, the drug is now under phase II clinical trials in China, and they have contacted Sinopharm, the state-owned pharmaceuticals maker, to promote phase II and III clinical trials overseas.
+
+Proxalutamide, an oral androgen receptor antagonist developed by China's Kintor Pharmaceutical Limited, has been granted emergency use authorization in Paraguay.
+
+The company said Proxalutamide is the only small-molecule oral drug that has entered a phase III multi-regional clinical trial (MRCT) for treating hospitalized COVID-19 patients.
+
+More than 100 sites in 14 countries participate in this MRCT clinical trial, which has been greenlighted/approved by authorities in China, the U.S., the Philippines and Brazil, said Tong Youzhi, chairman and chief executive officer of Kintor. "We continue to seek approvals by regulatory agencies in European and Asian countries."
+
+Reduce hyperimmune response
+
+The third approach for COVID-19 drug is to muffle the immune system's dangerously overactive response, a "cytokine storm" that can drown a victim in a mass of congestion and dying airway cells.
+
+BDB-001 is an anti-C5a monoclonal antibody injection that can effectively suppress hyperimmune responses, mute the call to action of a "cytokine storm."
+
+Developed by Beijing-based biopharma Staidson, BDB-001 has entered phase II and III clinical trial globally with over 90 percent of enrollment.
+
+Evidence has suggested that C5a is a powerful inflammatory mediator and antibodies acting against C5a could therefore reduce the pulmonary dysfunction, which has characterized COVID-19.

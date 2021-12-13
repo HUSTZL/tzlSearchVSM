@@ -1,0 +1,22 @@
+Gene linked to doubling risk of COVID-19 death found by UK scientists
+British scientists have identified a version of a gene that may be associated with doubling the risk of lung failure from COVID-19, a finding that provides new insights into why some people are more susceptible than others to severe illness and which opens possibilities for targeted medicine.
+
+The high-risk genetic variant is in a chromosome region that is also tied to doubling the risk of death in COVID-19 patients under age 60.
+
+Around 60 percent of people with South Asian ancestry carry the high-risk version of the gene, researchers at Oxford University said on Friday, adding the discovery may partly explain the high number of deaths seen in some British communities, and the devastation wrought by COVID-19 in the Indian subcontinent.
+
+The scientists found the increased risk comes from a gene that regulates the activity of other genes, including one called LZTFL1 involved in the response of lung cells to viruses.
+
+As a result, the gene variant could inhibit proper response to the virus among cells lining the airways and the lungs.
+
+However, LZTFL1 does not affect the immune system that makes antibodies to fight off infections, researchers said, adding that people carrying the variant should respond normally to vaccines.
+
+The study "shows that the way in which the lung responds to the infection is critical. This is important because most treatments have focused on changing the way in which the immune system reacts to the virus," said Professor James Davies, co-lead of the study.
+
+Dr. Raghib Ali of the University of Cambridge, an adviser on COVID-19 and ethnicity to the UK Cabinet Office, said in a statement that even after accounting for higher rates of COVID-19 risk factors such as work in public-facing jobs and housing in densely populated areas, "there has been an unexplained residual excess risk in South Asians."
+
+This new study, he added, shows "that this may be due to them being more likely to carry this gene which increases their risk of death once infected."
+
+The findings were published in the Nature Genetics journal.
+
+Dr. Simon Biddie, an intensive care specialist at the University of Edinburgh, said in a statement that while the study "provides compelling evidence to suggest roles for LZFTL1" in the lungs of patients with severe COVID-19, more research is necessary to confirm the findings.

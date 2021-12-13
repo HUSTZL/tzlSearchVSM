@@ -1,0 +1,36 @@
+For a better future, we need to plug the AI skills shortage
+Editor's note: Javier Arroyo is the co-founder of Smartick AI-based math program for children and a graduate of Harvard Business School's Executive Program. The article reflects the author's opinions and not necessarily those of CGTN. Artificial intelligence (AI) is transforming the world around us. It has helped us to develop a vaccine and will usher in the era of driverless cars. Russian President Vladimir Putin has famously asserted that the nation that leads in AI will be "the ruler of the world." He is right. But there is an emerging global skills gap crisis when it comes to employees who understand and are able to use the technology. Among the jobs most sought are developers and engineers, researchers and data scientists, said a report by global auditing and consultancy firm Deloitte. That is borne out by a recent Microsoft study, which found that 35 percent of UK business leaders believe there will be an AI skills shortage in the next two years. Worse still, 28 percent reckon we're already experiencing that shortage. While 93 percent of U.S. and UK organizations list AI as a business priority and have projects already planned or in production, more than half (51 percent) admit they don't have the right mix of skilled AI talent in-house to bring these strategies to life, according to the AI Skills Gap. The demand isn't just coming from IT departments either, but across the board in marketing, sales, customer service, finance, and research and development, according to advisory firm Gartner. In the U.S., the fields of information technology, engineering, and math have the most job openings, yet those jobs that require coding skills stay open the longest. More people would be available to fill these jobs if there were more computer graduates, and there would be more computer graduates if you could get a head start in schools with effective math classes. This points to a massive disconnect between the math that is taught in today's classroom and the skills that are needed in tomorrow's workforce. Take computer programming and coding for example. The UK government introduced it as part of the National Curriculum in 2014, becoming the first country in the world to mandate coding as a subject in primary and secondary schools. This shows good intent, however, unfortunately, it's being taught completely the wrong way. Rather than teaching students how to code in a specific language which is likely to become redundant in a couple of years, they need to learn the underlying skills behind coding and the techniques needed to tackle complex problems, some of which has traditionally been taught at university only.
+
+Take Estonia as an example. Since 2014, all Estonians have had a lifelong learning strategy that involves the use of digital tools in schools, which prioritizes computational thinking along with coding. It should come as no surprise then that Estonia has the highest "unicorn-per-capita" rate in the world.
+
+
+
+Across the Western world, math simply hasn't kept pace with the latest advances in technology and addressing the problems of the real world. Many have memories of answering stale, abstract questions that ask "how many apples Susan will have left?" In fact, kids need to know how computers think, and therefore how to give them instructions.
+
+
+
+They need to be equipped with the ability to break complex problems down into simpler ones, and how to notice patterns in data and code.
+
+
+
+There's less point in teaching complex and obsolete concepts such as long division than before, because now everyone has a calculator in their pockets. And, at the moment, the teachers delivering the current curriculum don't have the right knowledge to bridge that ever-widening chasm in skills.
+
+
+
+Practical applications could include finding key trends in government statistics, designing a traffic system or even cracking codes. That's where a combination of newly upskilled and retrained teachers (empowered by digital learning tools) and AI technology platforms must be used to deliver these skills and provide students with the tools required for this ever-changing digitally-powered world, and enable them to face these challenges head-on. After all, we have all this technology at our disposal, so why not use it to full effect?
+
+
+
+Pupils need to be put into real-life scenarios where this technology is being deployed so they can learn how to use it. And what place is better than the classroom to try it out in first?
+
+
+
+Remote learning has driven technological advancements over the last 18 months, enforced by the COVID-19 pandemic, and will continue to shape the future of tomorrow's workforce. That capability needs to be fully harnessed to enable children to continue to learn outside the classroom and apply the technology as they transition into the world of work. Online resources can help in this respect, delivering tutorials tailored to an individual student's needs and ability that they can work through at their own pace.
+
+
+
+The jobs of tomorrow haven't been created yet, but we know what skills they'll likely require. Just as a farmer may not imagine the job of a tractor driver, we can't imagine what the jobs of tomorrow will require. So it is not so important what we tell our children to think, but rather, how to think. And in the future, we'll need to think more like computers.
+
+
+
+(If you want to contribute and have specific expertise, please contact us at opinions@cgtn.com.)

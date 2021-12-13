@@ -1,0 +1,16 @@
+5G ensures optimal tourist experience in Beijing amusement park
+Within four square kilometers fully covered by 5G technology at the Universal Studios resort in Beijing, mobile networks can support tens of thousands of users at the same time, with extensive indoor digital systems and macrocells.
+
+"In the park, there are many high-end user groups. From our user traffic data, the 5G offload ratio has reached almost 50 percent. The number of 5G users and 5G traffic has reached a very high level." said Guo Yu, director of the 5G Operations Unit of the Network Optimization Center at Beijing Unicom.
+
+"From cloud gaming, playing ultra-HD videos, to other online services, we can meet our users' requirements and guarantee meeting the users' needs during peak time."
+
+Livestreaming, playing video games, chatting online or just browsing TikTok, people can do any one of these while waiting for their turn at the Wizarding World of Harry Potter, which hosts some of the 37 rides where the average waiting time is at least 30 minutes.
+
+Thirty-six white boxes, which are in fact 5G wireless communication base stations, are dotted around the park to guarantee communication services. The 5G network can fully satisfy 4k high-definition video and double speed play at any time and guarantee a rate of 300 to 500 megabytes per second or even higher.
+
+Universal Studio is also part of China Unicom Beijing's "5Gigaverse" network, which improves network performance and accelerates the expansion of 5G network coverage.
+
+China had rolled out 819,000 5G base stations at the end of the first quarter this year, and the number of 5G connections in the country is expected to hit 822 million by 2025.
+
+According to a white paper released by the China Academy of Information and Communications Technology, the commercial use of 5G will be gradually realized in a wide variety of industries between 2021 and 2023, and industry applications will see large-scale growth after 2023.

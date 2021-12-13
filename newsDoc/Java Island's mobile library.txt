@@ -1,0 +1,6 @@
+Java Island's mobile library
+A librarian on Indonesia's Java Island is promoting literacy and helping the environment by driving a mobile library and collecting trash.
+
+Have some trash? Get a book in exchange.
+
+And in turn, that trash keeps funding the "trash library."

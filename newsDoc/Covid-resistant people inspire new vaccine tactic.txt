@@ -1,0 +1,47 @@
+Covid-resistant people inspire new vaccine tactic
+By James Gallagher
+Health and science correspondent
+
+Understanding how some people naturally resist Covid infection, despite clearly being exposed to the virus, could lead to better vaccines, say researchers.
+
+A team at University College London said some people had a degree of Covid-immunity before the pandemic started.
+
+This likely came from the body learning how to fight viruses that are related to the one which has swept the world.
+
+Upgrading vaccines to copy this protection, could make the jabs even more effective, the team said.
+
+The scientists were closely monitoring hospital staff during the first wave of the pandemic - including by taking regular blood samples.
+
+Despite being in a high-risk environment, not everyone in the study came down with Covid. The results, published in the journal Nature, showed some people just managed to avoid the virus.
+
+But around one-in-10 had signs of being exposed, but never had symptoms, never tested positive and never developed Covid-fighting antibodies in their blood.
+
+Part of their immune system was able to get on top of the virus before it managed to take hold - what's known as an "abortive infection".
+
+Blood samples showed these people already had (as in before the pandemic) protective T-cells, which recognise and kill cells infected with Covid.
+
+Dr Leo Swadling, one of the researchers, said their immune systems were already "poised" to fight the new disease.
+
+These T-cells were able to spot a different part of the virus than the bit most of the current vaccines train the immune system to find.
+
+Vaccines are largely aimed at the spike protein, which covers the outer surface of the Covid virus. However, these rare T-cells were able to look inside the virus and find the proteins that are necessary for it to replicate.
+
+"The healthcare workers that were able to control the virus before it was detectable were more likely to have these T-cells that recognise the internal machinery before the start of the pandemic," Dr Swadling added.
+
+Who can get a Covid booster jab?
+How many people are vaccinated in the UK?
+These internal proteins are very similar in all related species of coronavirus, including the ones that are widespread and cause common cold symptoms.
+
+It means targeting these proteins with a vaccine could give some protection against all coronaviruses and new Covid variants.
+
+The team said the current vaccines were doing an excellent job of preventing people from becoming severely ill, but were not as good at stopping them catching Covid.
+
+Prof Mala Maini told me: "I think we could all see that they could do better.
+
+"What we're hoping, by including these T-cells, is that they might be able to protect against infection as well as disease, and we hope they would be better at recognising new variants that arise."
+
+While nearly everyone will have caught these common cold coronaviruses, not everyone will have developed the right kind of protective T-cells. It may be that healthcare workers are more regularly exposed to the viruses through their work and that is why some of them had protection.
+
+Dr Alexander Edwards, from the University of Reading, said: "Insights from this study could be critical in the design of a different type of vaccine.
+
+"Hopefully this study will lead to further advances in vaccine development, as we need all the types of vaccine we can get."

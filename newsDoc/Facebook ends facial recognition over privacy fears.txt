@@ -1,0 +1,40 @@
+Facebook ends facial recognition over privacy fears
+The parent company of Facebook has rebranded as Meta, while Facebook and its family of apps will still keep their names. /CFP
+
+The parent company of Facebook has rebranded as Meta, while Facebook and its family of apps will still keep their names. /CFP
+
+Scandal-hit Facebook is shutting down its long-criticized facial recognition system and deleting scan data on a billion people, it said Tuesday in a shock response to privacy concerns.
+
+The announcement came as the tech giant battles one of its worst crises ever, with reams of internal documents leaked to reporters, lawmakers and U.S. regulators fueling fresh calls for government regulation.
+
+This policy change shuts down a feature that automatically identified people who appeared in Facebook users' digital photos and was key to the company building a global library of faces that became a magnet for controversy.
+
+"This change will represent one of the largest shifts in facial recognition usage in the technology's history," wrote Jerome Pesenti, vice president of artificial intelligence at Facebook's parent company Meta.
+
+"There are many concerns about the place of facial recognition technology in society, and regulators are still in the process of providing a clear set of rules governing its use," he said.
+
+Pesenti did not directly explain why the change was announced at a moment when the company is deluged with reports based on leaked documents that argue executives know the platform could cause harm.
+
+Winding down the system "will result in the deletion of more than a billion people's individual facial recognition templates," he wrote, adding that it would take place over the coming weeks.
+
+Privacy advocates welcomed the news, but some were concerned it was an effort to score points amid recent public relations disasters.
+
+"My feed is equally divided between people who think Facebook's decision to stop using its facial recognition system and delete faceprints is a big deal and the people who think it's a desperate grab for positive headlines that changes nothing of substance," tweeted Eva Galperin, director of cybersecurity at watchdog Electronic Frontier Foundation.
+
+Privacy concerns
+
+Facial identification, launched in 2010, went through changes to tighten privacy but still was central to a significant lawsuit and regulatory scrutiny.
+
+The social network agreed in 2020 to a $650 million payout after failing to win dismissal of a case alleging it illegally collected biometric information for "face tagging" in violation of a 2008 Illinois privacy law.
+
+The deal was one of the largest settlements in a U.S. privacy case, topped only by Facebook's $5 billion deal with the Federal Trade Commission on its data practices.
+
+Several U.S. cities, including San Francisco, have passed bans on the use of facial recognition technology. There are concerns about creating large databases with errors in identifying some individuals.
+
+In the United States, faced with pressure from watchdogs, tech giants like Amazon, Microsoft, IBM and Google have stopped, at least temporarily, selling facial recognition software to police forces.
+
+"Facial recognition is one of the most dangerous and politically toxic technologies ever created. Even Facebook knows that," said Caitlin Seeley George, campaign director at digital advocacy group Fight for the Future.
+
+As the company battles its whistleblower revelations, it has changed its parent company name to Meta in an effort to move past being a scandal-plagued social network to its virtual reality vision for the future.
+
+Facebook, Instagram and WhatsApp ¨C which are used by billions around the world ¨C will keep their names under the rebranding that critics have called an effort to distract from the platform's dysfunction.

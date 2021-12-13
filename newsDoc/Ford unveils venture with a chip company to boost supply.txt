@@ -1,0 +1,22 @@
+Ford unveils venture with a chip company to boost supply
+Ford announced Thursday a "strategic collaboration" with chip company GlobalFoundries to bolster its supply of semiconductors as the automaker grapples with a global shortage of the crucial components.
+
+A joint press release from the companies offered few details but said the aim was to boost chip manufacturing and technology development within the United States and enhance Ford's supply pipeline.
+
+The two companies also will "explore expanded semiconductor manufacturing opportunities to support the automotive industry," according to the announcement.
+
+Global Foundries has three manufacturing plants in the United States, one in Singapore and one in Germany.
+
+Over the past year, a global chip shortage has caused Ford and other automakers to curtail vehicle production. Most companies have directed the chips they receive to their most profitable vehicles. That has led automakers to explore ways to boost access to chips.
+
+"We hope Ford and GlobalFoundries will team up to grow the supply in a more formal way to support our current vehicle lineup and our future needs," Ford Vice President Chuck Gray said in an interview.
+
+The No. 2 U.S. automaker planned to get into the business of designing its chips and having them manufactured by a partner, Gray said. Some major automakers such as Volkswagen have said they plan to design their self-driving chips.
+
+General Motors is working with seven chip suppliers on three new families of microcontrollers that will reduce the number of unique chips by 95 percent on future vehicles, Mark Reuss, the president of the company said later on Thursday.
+
+The new microcontrollers will consolidate many of the functions now handled by individual chips, which not only will reduce cost and complexity, but "will drive quality and predictability," he said.
+
+The U.S. Commerce Department in September requested that chipmakers, automakers and others, submit chip data, saying the information would boost supply-chain transparency and set a deadline to respond. The move has triggered industry concerns on trade secrets.
+
+(With input from AFP, Reuters)
